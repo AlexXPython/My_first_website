@@ -66,3 +66,12 @@ body {
     width: 834px;
     height: 322px;
 }
+.index {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.index a {
+    display: inline-block; 
+    margin: 0 auto;
+}

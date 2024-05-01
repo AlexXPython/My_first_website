@@ -19,6 +19,10 @@ body {
 }
 .row {
 }
+.file {
+    display: block;
+    margin: 0 auto; 
+}
 .col-md-8 {
 }
 .col-md-4 {

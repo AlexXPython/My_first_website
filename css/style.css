@@ -47,3 +47,22 @@ body {
 .under_photo {
     text-align: center;
 }
+.button_js {
+    text-align: center;
+}
+#myButton {
+    border: 3px solid #0ff000;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    background-color: #ff0000;
+    color: #ffffff;
+    font-weight: bold;
+}
+#demo img {
+    position: absolute;
+    top: 250px;
+    left: 121px;
+    width: 834px;
+    height: 322px;
+}
